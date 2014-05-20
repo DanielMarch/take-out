@@ -1,0 +1,15 @@
+{"name":"bacon", "menu":"breakfast", "cost":2.50, "calories":100}
+{"name":"eggs", "menu":"breakfast", "cost":3.00, "calories":150}
+{"name":"waffles", "menu":"breakfast", "cost":4.00, "calories":200}
+{"name":"sandwich", "menu":"lunch", "cost":4.50, "calories":350}
+{"name":"wings", "menu":"lunch", "cost":4.00, "calories":200}
+{"name":"sushi", "menu":"lunch", "cost":6.00, "calories":150}
+{"name":"steak", "menu":"lunch", "cost":6.00, "calories":400}
+{"name":"steak", "menu":"dinner", "cost":6.00, "calories":400}
+{"name":"potato", "menu":"dinner", "cost":3.50, "calories":200}
+{"name":"salad", "menu":"dinner", "cost":3.50, "calories":80}
+{"name":"ice cream", "menu":"lunch", "cost":2.00, "calories":190}
+{"name":"cake", "menu":"dinner", "cost":2.50, "calories":200}
+{"name":"sausage", "menu":"breakfast", "cost":2.50, "calories":100}
+{"name":"ham", "menu":"dinner", "cost":2.50, "calories":100}
+{"name":"catfish", "menu":"dinner", "cost":8.50, "calories":700}
